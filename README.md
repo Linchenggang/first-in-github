@@ -1,2 +1,2 @@
 # first-in-github
-This is
+This is the first repository in github，lets start ！！！
